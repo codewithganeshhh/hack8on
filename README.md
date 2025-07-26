@@ -1,4 +1,4 @@
-# Wellness Chatbot
+# MindMate - A Wellness Chatbot
 
 A comprehensive mental health assessment and support platform that helps young people suffering from stress and depression by providing standardized wellness questionnaires (PHQ-9 and GAD-7) along with personalized resources including meditation tips, crisis hotlines, and book recommendations.
 
